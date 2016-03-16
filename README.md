@@ -1,2 +1,2 @@
-# OneTab-robocopy-backup
-backup OneTab datafile using robocopy
+# OneTab-backup
+backup various OneTab datafiles in Windows
