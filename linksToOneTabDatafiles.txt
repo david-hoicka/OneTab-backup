@@ -1,0 +1,4 @@
+links to OneTab datafiles:
+
+Cyberfox:
+"C:\Users\%username%\AppData\Roaming\8pecxstudios\Cyberfox\Profiles\kjnvzpy8.default\jetpack\extension@one-tab.com\simple-storage"
