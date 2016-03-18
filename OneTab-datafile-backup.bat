@@ -7,7 +7,7 @@ FOR /F "TOKENS=1-3 DELIMS=:." %%a IN ("%time%") DO SET hh=%%a&SET tt=%%b&SET ss=
 rem test date: echo "newfilename_%yy%-%mm%-%dd%_%hh%h%tt%m%ss%s.log"
 
 rem CYBERFOX
-rem xcopy only if changed (see /M flag)
-echo F | xcopy C:\Users\%username%\AppData\Roaming\8pecxstudios\Cyberfox\Profiles\kjnvzpy8.default\jetpack\extension@one-tab.com\simple-storage\store-test01.json  G:\OneDrive\z-robocopy-backup-OneTab\CyberFox-OneTab-backups\store-test01_%yy%-%mm%-%dd%_%hh%h%tt%m%ss%s.json /M
+rem xcopy only if changed (see archive flag /M)
+echo F | xcopy C:\Users\%username%\AppData\Roaming\8pecxstudios\Cyberfox\Profiles\kjnvzpy8.default\jetpack\extension@one-tab.com\simple-storage\store.json  G:\OneDrive\z-robocopy-backup-OneTab\CyberFox-OneTab-backups\store_%yy%-%mm%-%dd%_%hh%h%tt%m%ss%s.json /M
 
 pause
