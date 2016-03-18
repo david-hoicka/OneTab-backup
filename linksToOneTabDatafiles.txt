@@ -1,4 +1,12 @@
 links to OneTab datafiles:
 
-Cyberfox:
-"C:\Users\%username%\AppData\Roaming\8pecxstudios\Cyberfox\Profiles\kjnvzpy8.default\jetpack\extension@one-tab.com\simple-storage"
+Cyberfox data location:
+  "C:\Users\%username%\AppData\Roaming\8pecxstudios\Cyberfox\Profiles\kjnvzpy8.default\jetpack\extension@one-tab.com\simple-storage"
+Cyberfox datafile name:
+  "store.json"
+
+Google Chrome data location:
+  "C:\Users\%username%\AppData\Local\Google\Chrome\User Data\Default\Local Storage\"
+Google Chrome data filenames:
+  "chrome-extension_chphlpgkkbolifaimnlloiipkdnihall_0.localstorage"
+  "chrome-extension_chphlpgkkbolifaimnlloiipkdnihall_0.localstorage-journal"
