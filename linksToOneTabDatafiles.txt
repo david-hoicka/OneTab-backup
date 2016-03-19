@@ -1,12 +1,23 @@
 links to OneTab datafiles:
 
+Firefox data location:
+  "C:\Users\%username%\AppData\Roaming\Mozilla\Firefox\Profiles\t71tluuq.default\jetpack\extension@one-tab.com\simple-storage\"
+Firefox datafile name:
+  "store.json"
+
 Cyberfox data location:
-  "C:\Users\%username%\AppData\Roaming\8pecxstudios\Cyberfox\Profiles\kjnvzpy8.default\jetpack\extension@one-tab.com\simple-storage"
+  "C:\Users\%username%\AppData\Roaming\8pecxstudios\Cyberfox\Profiles\kjnvzpy8.default\jetpack\extension@one-tab.com\simple-storage\"
 Cyberfox datafile name:
   "store.json"
 
 Google Chrome data location:
   "C:\Users\%username%\AppData\Local\Google\Chrome\User Data\Default\Local Storage\"
 Google Chrome data filenames:
+  "chrome-extension_chphlpgkkbolifaimnlloiipkdnihall_0.localstorage"
+  "chrome-extension_chphlpgkkbolifaimnlloiipkdnihall_0.localstorage-journal"
+
+Vivaldi (Chrome) data location:
+  "C:\Users\David101\AppData\Local\Vivaldi\User Data\Default\Local Storage\"
+Vivaldi (Chrome) data filenames:
   "chrome-extension_chphlpgkkbolifaimnlloiipkdnihall_0.localstorage"
   "chrome-extension_chphlpgkkbolifaimnlloiipkdnihall_0.localstorage-journal"
